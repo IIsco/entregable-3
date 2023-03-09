@@ -1,0 +1,38 @@
+[
+	{
+		"title": "Fish",
+		"description": "salmon",
+		"Price": 15,
+		"thumbnail": "no",
+		"code": "",
+		"stock": 50,
+		"id": 1
+	},
+	{
+		"title": "Fish",
+		"description": "salmon",
+		"Price": 15,
+		"thumbnail": "no",
+		"code": "4567",
+		"stock": 50,
+		"id": 2
+	},
+	{
+		"title": "papa",
+		"description": "amarilla",
+		"Price": 5,
+		"thumbnail": "no podemos",
+		"code": "abc789",
+		"stock": 10,
+		"id": 3
+	},
+	{
+		"title": "huevo",
+		"description": "32 unidades",
+		"Price": 10,
+		"thumbnail": "no podemos",
+		"code": "abc798",
+		"stock": 100,
+		"id": 4
+	}
+]
